@@ -1,5 +1,5 @@
 criaCartao{
-    'conhecimentos gerais',
+    'conhecimento geral',
         'O sushi é um prato original de qual país?',
         'Japão'
 }
@@ -17,43 +17,86 @@ criaCartao{
 }
 
 criaCartao{
-    'conhecimentos gerais',
+    'conhecimento geral',
         ' Em que país foi construído o Muro de Berlim?',
         'Alemanha'
 }
 
 criaCartao{
-    'categoria',
-        'pergunta',
-        'resposta'
+    'conhecimento geral',
+        'Quais as duas línguas mais faladas no mundo?',
+        'Inglês e mandarim chinês'
 }
 
 criaCartao{
-    'categoria',
-        'pergunta',
-        'resposta'
+    'Química',
+        'Qual o nome popular do cloreto de sódio?',
+        'Sal de cozinha'
 }
 
 criaCartao{
-    'categoria',
-        'pergunta',
-        'resposta'
+    'conhecimento geral',
+        'Depois do futebol, qual o esporte mais popular no Brasil?',
+        'Vôlei'
 }
 
 criaCartao{
-    'categoria',
-        'pergunta',
-        'resposta'
+    'Geografia',
+        'Quanto tempo a luz do Sol demora para chegar à Terra?',
+        '8 minutos'
 }
 
 criaCartao{
-    'categoria',
-        'pergunta',
-        'resposta'
+    'ciências',
+        'Quais são as fases da Lua?',
+        'Nova, crescente, cheia e minguante'
 }
 
 criaCartao{
-    'categoria',
-        'pergunta',
-        'resposta'
+    'Filosofia',
+        'De quem é a famosa frase “Penso, logo existo”?',
+        'Descartes'
 }
+
+criaCartao{
+    'química',
+        ' Atualmente, quantos elementos químicos a tabela periódica possui?',
+        '118'
+}
+
+criaCartao{
+    'História',
+        'Em que período da pré-história o fogo foi descoberto?',
+        'Paleolítico.'
+}
+
+criaCartao{
+    'conhecimento geral',
+        'Qual animal representa o símbolo da paz?',
+        'Pomba'
+}
+
+criaCartao{
+    'ciências',
+        ' Qual é o animal mais alto do mundo?',
+        'Girafa'
+}
+
+criaCartao{
+    'Charada',
+        'Há um pato entre dois patos, um pato atrás de um pato e um pato na frente de outro pato. De quantos patos estamos falando?',
+        '3 patos'
+}
+
+criaCartao{
+    'charada',
+        'O que o livro de Matemática disse para o livro de Português?',
+        'Pare de me contar historinhas que eu já estou cheio de problemas'
+}
+
+criaCartao{
+    'Matemática',
+        'Qual das alternativas tem dois nove, um sete e três quatro?',
+        '291734'
+}
+
