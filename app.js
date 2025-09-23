@@ -20,8 +20,6 @@ function criaCartao(categoria, pergunta, resposta) {
       respostaEstaVisivel = !respostaEstaVisivel
    }
 
-
    container.appendChild(cartao)
-
 
 }
