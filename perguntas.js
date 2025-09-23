@@ -95,7 +95,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Matemática/charada',
+    'charada',
         'O que quanto mais curto for, mais rápido é?',
         'O tempo.'
 )
