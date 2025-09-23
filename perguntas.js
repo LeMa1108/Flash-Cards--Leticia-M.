@@ -96,8 +96,8 @@ criaCartao(
 
 criaCartao(
     'Matemática',
-        'Qual das alternativas tem dois nove, um sete e três quatro?',
-        '291734'
+        'O que quanto mais curto for, mais rápido é?',
+        'O tempo.'
 )
 
 
