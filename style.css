@@ -1,5 +1,5 @@
 :root{
-    --text-color: #dbe4ef;
+    --text-color: #3b6368;
     --card-front-color: #6ab857;
     --card-back-color: #00f4bf
     --cor-da-borda #e5f509;
@@ -7,7 +7,7 @@
 }
 
 body{
-    background-color: bisque;
+    background-color: rgb(65, 55, 44);
     font-family: "Bai Jamjuree", sans-serif;
 }
 
