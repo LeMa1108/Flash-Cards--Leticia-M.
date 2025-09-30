@@ -84,8 +84,8 @@ criaCartao(
 
 criaCartao(
     'Charada',
-        'Há um pato entre dois patos, um pato atrás de um pato e um pato na frente de outro pato. De quantos patos estamos falando?',
-        '3 patos'
+        'Qual é o céu que não possui estrelas?',
+        'O céu da boca'
 )
 
 criaCartao(
