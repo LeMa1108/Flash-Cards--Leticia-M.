@@ -42,7 +42,7 @@ body{
     position: absolute;
     margin: 0.6rem;
     border-radius: 0.6rem;
-    font-size: 0.8vw;
+    font-size: 2vw;
     backface-visibility: hidden;
 }
 
