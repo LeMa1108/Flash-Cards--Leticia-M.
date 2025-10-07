@@ -17,13 +17,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Conhecimento gerais',
+    'Conhecimentos gerais',
         ' Em que país foi construído o Muro de Berlim?',
         'Alemanha'
 )
 
 criaCartao(
-    'Conhecimento gerais',
+    'Conhecimentos gerais',
         'Quais as duas línguas mais faladas no mundo?',
         'Inglês e mandarim chinês'
 )
