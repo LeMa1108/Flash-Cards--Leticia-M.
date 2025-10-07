@@ -1,29 +1,29 @@
 criaCartao(
-    'conhecimento geral',
+    'Conhecimentos gerais',
     'O sushi é um prato original de qual país?',
     'Japão'
 )
 
 criaCartao(
-    'história',
+    'História',
         'Qual evento histórico aconteceu entre os anos de 1914 e 1918?',
         'Primeira Guerra Mundial'
 )
 
 criaCartao(
-    'arte',
+    'Arte',
         'Quem pintou Mona Lisa?',
         'Leonardo da Vinci'
 )
 
 criaCartao(
-    'conhecimento geral',
+    'Conhecimento gerais',
         ' Em que país foi construído o Muro de Berlim?',
         'Alemanha'
 )
 
 criaCartao(
-    'conhecimento geral',
+    'Conhecimento gerais',
         'Quais as duas línguas mais faladas no mundo?',
         'Inglês e mandarim chinês'
 )
@@ -35,7 +35,7 @@ criaCartao(
 )
 
 criaCartao(
-    'conhecimento geral',
+    'Conhecimentos gerais',
         'Depois do futebol, qual o esporte mais popular no Brasil?',
         'Vôlei'
 )
@@ -47,7 +47,7 @@ criaCartao(
 )
 
 criaCartao(
-    'ciências',
+    'Ciências',
         'Quais são as fases da Lua?',
         'Nova, crescente, cheia e minguante'
 )
@@ -59,7 +59,7 @@ criaCartao(
 )
 
 criaCartao(
-    'química',
+    'Química',
         ' Atualmente, quantos elementos químicos a tabela periódica possui?',
         '118'
 )
@@ -71,13 +71,13 @@ criaCartao(
 )
 
 criaCartao(
-    'conhecimento geral',
+    'Conhecimentos gerais',
         'Qual animal representa o símbolo da paz?',
         'Pomba'
 )
 
 criaCartao(
-    'ciências',
+    'Ciências',
         ' Qual é o animal mais alto do mundo?',
         'Girafa'
 )
@@ -89,13 +89,13 @@ criaCartao(
 )
 
 criaCartao(
-    'charada',
+    'Charada',
         'O que o livro de Matemática disse para o livro de Português?',
         'Pare de me contar historinhas que eu já estou cheio de problemas'
 )
 
 criaCartao(
-    'charada',
+    'Charada',
         'O que quanto mais curto for, mais rápido é?',
         'O tempo.'
 )
